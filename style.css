@@ -1,0 +1,10 @@
+.input{
+ background-color: rgb(30, 255, 0);
+ padding: 5px 50px 5px 50px;
+ border-style: none;
+ border-width: 1px;
+}
+.input:hover{
+  border-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
+}
